@@ -1,0 +1,50 @@
+.heading {
+  color: #4b0082;
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 5rem;
+}
+.search-bar {
+  width: 80%;
+}
+.search-icon {
+  padding-bottom: 0.5rem;
+}
+.output-title {
+  color: black;
+  display: inline-block;
+  font-size: 3rem;
+}
+.output-container {
+  border: 2px solid white;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+}
+.speaker-icon {
+  background-color: blue;
+  display: inline-block;
+  margin: 1rem 1rem 0 1rem;
+  border-radius: 2rem;
+}
+.phonetic {
+  margin-left: 5rem;
+  margin-top: -1rem;
+  color: black;
+}
+.origin {
+  margin-left: 5rem;
+  font-size: 1.5rem;
+}
+.block {
+  font-size: 1.4rem;
+}
+.notfound {
+  font-size: 6rem;
+}
+.errorMessage {
+  font-size: 3rem;
+}
+.begin {
+  margin-top: 5rem;
+  font-size: 4rem;
+}
